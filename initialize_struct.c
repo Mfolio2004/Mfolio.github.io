@@ -9,6 +9,9 @@
 #include "includes/my.h"
 #include "includes/game_param.h"
 
+
+Mes couilles sur ton front
+
 text_info init_text(char *text, int size, sfVector2f pos, sfColor color)
 {
     text_info text_info = {0};
